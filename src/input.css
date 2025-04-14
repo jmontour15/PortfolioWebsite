@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import "tailwindcss";
+
+.font-special-gothic {
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
